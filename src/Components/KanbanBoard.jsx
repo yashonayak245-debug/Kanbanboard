@@ -23,7 +23,7 @@ import {
   INITIAL_COLUMNS,
   INITIAL_CARDS,
   incrementCardCounter,
-} from "./data";
+} from "./Data";
 
 // ─── Helpers ─────────────────────────────────────────────────────────────────
 const Avatar = ({ id, size = 26 }) => {
